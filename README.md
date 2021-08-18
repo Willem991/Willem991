@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Willem991.
 - 👀 I’m interested in statistics, web developement, and programming.
 - 🌱 I’m currently learning R, SAS, and web developement.
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 💞️ I’m looking to collaborate on anything stats! If you want an R programmer feel free to contact me.
 - 📫 How to reach me at ruan.nieu@gmail.com!
 
 <!---
