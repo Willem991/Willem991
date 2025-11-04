@@ -1,4 +1,4 @@
-## 👋 About Me
+## About Me
 
 I’m **Willem**, a full-stack developer specializing in **Python (Django)** and **JavaScript (React, Electron)**.  
 My work focuses on building robust backend systems and intuitive, responsive front-end interfaces.
@@ -7,7 +7,7 @@ With a background in data and statistics, I bring a structured, analytical appro
 
 ---
 
-## 🧰 Technical Skills
+## Technical Skills
 
 **Core Languages & Frameworks**  
 - **Python** — Django, Django REST Framework  
@@ -20,7 +20,7 @@ With a background in data and statistics, I bring a structured, analytical appro
 
 ---
 
-## 🔧 Current Focus
+## Current Focus
 
 - Developing full-stack web applications using Django and React  
 - Building cross-platform desktop applications with Electron  
@@ -28,7 +28,7 @@ With a background in data and statistics, I bring a structured, analytical appro
 
 ---
 
-## 🤝 Collaboration
+## Collaboration
 
 I’m interested in collaborating on web development projects that involve:  
 - Scalable backend design and API development  
